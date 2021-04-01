@@ -9,6 +9,7 @@
 <div align="center">
    <a href="https://github.com/iamruveyda/KBU-Visual/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/iamruveyda/KBU-Visual?style=plastic"></a>
    <a><img alt="Repo Size" src="https://img.shields.io/github/repo-size/iamruveyda/KBU-Visual?style=plastic"></a>
+   <a><img alt="Code Size" src="https://img.shields.io/github/languages/code-size/iamruveyda/KBU-Visual?style=plastic"></a>
 </div>
 
 ## Instructor
